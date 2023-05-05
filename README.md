@@ -1,6 +1,10 @@
 ## Music Genre Classification with CNNs using Spotify
 The goal of this project is to be able to detect the genre of a song by training a Convolutional Neural Network (CNN) using a custom created dataset based on Spotify Playlists.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/400px-Spectrogram-19thC.png" />
+</p>
+
 The goal of this project is to be able to **detect the genre of a song**, using Mel spec-trograms, by **training a Convolutional Neural Network (CNN) with Keras using Python**. For this purpose, we will work on **three different datasets**.
 
 First of all, we will begin our work on the **GTZAN dataset** which consists of 900 **30-second, 22kHz, Mono, 16-bit .WAV files**, belonging to 9 different genres from 2000-2001 to **build and test our model architecture**:

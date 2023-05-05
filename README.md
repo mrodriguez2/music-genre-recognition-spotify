@@ -35,3 +35,5 @@ However, I felt like little documentation was provided and that the project had 
 * Provide easy-to-access, reproducible and readable source code and documentation on the whole process.
 
 Most importantly however, we hope to use this project as a learning opportunity to improve our knowledge on Machine Learning, Artificial Intelligence and Neural Networks.
+
+[Spotify 3-Second Dataset for this project is available on Kaggle.](https://www.kaggle.com/datasets/mrodriguez2/spotify-3-second-mel-spectrograms)
